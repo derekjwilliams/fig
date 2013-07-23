@@ -1,6 +1,6 @@
 # Description
 
-Fig a general purpose graph application with the ability to add types and methods (think MonkeyPatching).  It's basically a framework that can be  customized by IT staff or consultants for specific domains, e.g. patient management, blackboard replacement, asset management.
+Fig is a general purpose graph application with the ability to add types and methods (think MonkeyPatching).  It's basically a framework that can be  customized by IT staff or consultants for specific domains, e.g. patient management, blackboard replacement, asset management.
 
 ## Details
 
